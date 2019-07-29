@@ -1,0 +1,24 @@
+.searchIcon{
+		display: block;
+		position: absolute;
+		right: 5px;
+		bottom: 5px;
+		background: url('../../img/icon1.png');
+		background-size: contain;
+		width: 30px;
+		height: 30px; 
+		border-radius: 15px;
+	}
+.searchList{
+	overflow: hidden;
+}
+.switchIcon{
+	display: inline-block;
+	width: 12px;
+	height: 12px;
+	background: url('../../img/spin.png');
+	background-size: contain;
+	transition: all .2s ease-in;
+	transform: rotate(0deg);
+	transform-origin: center;
+}

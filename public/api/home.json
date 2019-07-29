@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data":{
+        "topicList": [{
+            "id": 1,
+            "title": "社会热点",
+            "imgUrl": "img/topic1.png"
+        },{
+            "id": 2,
+            "title": "社会热点",
+            "imgUrl": "img/topic2.png"
+         },{
+            "id": 3,
+            "title": "社会热点",
+            "imgUrl": "img/topic3.png"
+        },{
+            "id": 4,
+            "title": "社会热点",
+            "imgUrl": "img/topic4.png"
+        },{
+            "id": 5,
+            "title": "社会热点",
+            "imgUrl": "img/topic5.png"
+        },{
+            "id": 6,
+            "title": "社会热点",
+            "imgUrl": "img/topic6.png"  
+        }],
+        "articleList":[{
+
+        }],
+        "recommendList":[{
+
+        }]
+}
